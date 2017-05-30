@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+#include <iostream>
+
+int main(){
+cout << "Hello World" << endln;
+}
